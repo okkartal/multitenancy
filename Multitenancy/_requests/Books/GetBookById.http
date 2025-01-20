@@ -1,0 +1,3 @@
+GET https://localhost:5000/api/books/79071940-2a12-4919-81ad-8ea567b02714
+Authorization: Bearer {{token}}
+X-TenantId: {{tenantId}}

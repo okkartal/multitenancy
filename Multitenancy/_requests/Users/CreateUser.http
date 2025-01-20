@@ -1,0 +1,8 @@
+POST https://localhost:5000/api/users
+Content-Type: application/json
+Authorization: Bearer {{token}}
+X-TenantId: {{tenantId}}
+
+{
+    "Email": "test2@gmail.com"
+}

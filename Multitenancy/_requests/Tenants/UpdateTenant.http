@@ -1,0 +1,7 @@
+PUT https://localhost:5000/api/tenants/6938e28c-0c34-4efd-a487-f045dff276e6
+Content-Type: application/json
+
+{
+    "Id": "6938e28c-0c34-4efd-a487-f045dff276e6",
+    "Name": "tenant-2-updated"
+}

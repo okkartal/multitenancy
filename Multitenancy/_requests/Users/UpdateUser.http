@@ -1,0 +1,9 @@
+PUT https://localhost:5000/api/users/f3f8e5bf-b1aa-4440-a9ff-6d25546df0ae
+Content-Type: application/json
+Authorization: Bearer {{token}}
+X-TenantId: {{tenantId}}
+
+{
+    "Id": "f3f8e5bf-b1aa-4440-a9ff-6d25546df0ae",
+    "Email": "test2@gmail.com"
+}

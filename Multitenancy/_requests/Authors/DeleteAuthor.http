@@ -1,0 +1,4 @@
+
+DELETE https://localhost:5000/api/authors/5cd874a2-8a91-4b22-b38d-75a950d4d9a2
+Authorization: Bearer {{token}}
+X-TenantId: {{tenantId}}

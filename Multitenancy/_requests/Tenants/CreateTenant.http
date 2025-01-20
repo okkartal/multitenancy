@@ -1,0 +1,6 @@
+POST https://localhost:5000/api/tenants
+Content-Type: application/json
+
+{
+    "Name": "tenant-2"
+}
